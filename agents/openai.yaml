@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 产品需求评审"
+  short_description: "评审 AI 产品需求的可行性、效果、风险与兜底"
+  default_prompt: "Use $ai-product-requirement-review to review this AI product requirement and produce a structured assessment."
